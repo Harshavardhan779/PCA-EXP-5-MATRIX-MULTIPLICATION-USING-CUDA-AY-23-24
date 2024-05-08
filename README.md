@@ -2,7 +2,7 @@
 <h3>NAME : HARSHAVARDHAN</h3>
 <h3>REGISTER NO : 212222240114</h3>
 <h3>EX. NO : 5</h3>
-<h3>DATE :26-03-2024</h3>
+<h3>DATE :16-04-2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
